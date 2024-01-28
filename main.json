@@ -38,7 +38,8 @@
       "MoreContentOption": false,
       "AddContentOption": true,
       "AddContentFormUrl": "https://forms.gle/R1FP8YZ18fBLYNfb9",
-      "checkForUpdates": true
+      "checkForUpdates": true,
+      "AdsType": "AdMob"
     }
   ],
   "Pre-Unlocked": [
