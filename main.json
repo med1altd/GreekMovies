@@ -44,10 +44,10 @@
       "VideoDelayAdMob": 30000,
       "MoviesInfoDelayAdMob": 45000,
       "SeriesInfoDelayAdMob": 45000,
-      "TVDelayUnity": 0,
-      "VideoDelayUnity": 0,
-      "MoviesInfoDelayUnity": 0,
-      "SeriesInfoDelayUnity": 0
+      "TVDelayUnity": 10000,
+      "VideoDelayUnity": 10000,
+      "MoviesInfoDelayUnity": 10000,
+      "SeriesInfoDelayUnity": 10000
     }
   ],
   "Pre-Unlocked": [
