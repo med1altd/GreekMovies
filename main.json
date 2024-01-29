@@ -39,7 +39,15 @@
       "AddContentOption": true,
       "AddContentFormUrl": "https://forms.gle/R1FP8YZ18fBLYNfb9",
       "checkForUpdates": true,
-      "AdsType": "Unity"
+      "AdsType": "Unity",
+      "TVDelayAdMob": 30000,
+      "VideoDelayAdMob": 30000,
+      "MoviesInfoDelayAdMob": 45000,
+      "SeriesInfoDelayAdMob": 45000,
+      "TVDelayUnity": 0,
+      "VideoDelayUnity": 0,
+      "MoviesInfoDelayUnity": 0,
+      "SeriesInfoDelayUnity": 0
     }
   ],
   "Pre-Unlocked": [
