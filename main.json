@@ -47,7 +47,16 @@
       "TVDelayUnity": 10000,
       "VideoDelayUnity": 10000,
       "MoviesInfoDelayUnity": 10000,
-      "SeriesInfoDelayUnity": 10000
+      "SeriesInfoDelayUnity": 10000,
+      "introductionEnabled": true
+    }
+  ],
+  "Introduction": [
+    {
+      "Image": "https://i0.wp.com/digital-photography-school.com/wp-content/uploads/2013/07/ar-10.jpg?ssl=1"
+    },
+    {
+      "Image": "https://i0.wp.com/digital-photography-school.com/wp-content/uploads/2013/07/ar-10.jpg?ssl=1"
     }
   ],
   "Pre-Unlocked": [
@@ -167,7 +176,7 @@
       ]
     }
   ],
-   "StandardTV": [
+  "StandardTV": [
     {
       "TV": [
         {
