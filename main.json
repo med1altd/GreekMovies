@@ -29,7 +29,7 @@
       "contactEmail": "medialtdcontact@gmail.com",
       "contactSubject": "Επικοινωνία σχετικά με την εφαρμογή \"GreekMovies\"",
       "contactMessage": " Αγαπητή ομάδα προγραμματιστών της εφαρμογής \"GreekMovies\",\nπήρα την απόφαση να σας αποστείλλω το συγκεκριμένο μήνυμα προκειμένου να",
-      "PrivacyPolicyUrl": "https://sites.google.com/view/movieflix-policy",
+      "PrivacyPolicyUrl": "https://sites.google.com/view/greekmoviesapp/privacy-policy",
       "DMCAUrl": "https://forms.gle/VBzgJBp2R8cTacsL8",
       "MoreImageUrl": "https://i.ibb.co/nRkWFQG/MORE.png",
       "NoImageUrl": "https://i.ibb.co/9yLBtnr/NO-IMAGE.png",
@@ -44,10 +44,10 @@
       "VideoDelayAdMob": 30000,
       "MoviesInfoDelayAdMob": 45000,
       "SeriesInfoDelayAdMob": 45000,
-      "TVDelayUnity": 10000,
-      "VideoDelayUnity": 10000,
-      "MoviesInfoDelayUnity": 10000,
-      "SeriesInfoDelayUnity": 10000,
+      "TVDelayUnity": 0,
+      "VideoDelayUnity": 0,
+      "MoviesInfoDelayUnity": 0,
+      "SeriesInfoDelayUnity": 0,
       "introductionEnabled": true
     }
   ],
