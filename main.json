@@ -2,7 +2,7 @@
   "Status": [
     {
       "isLive": true,
-      "isWorking": true,
+      "isWorking": false,
       "isTest": false,
       "showAds": false,
       "showBannerAds": true,
