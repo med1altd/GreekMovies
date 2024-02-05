@@ -51,7 +51,7 @@
       "MoviesInfoDelayUnity": 5000,
       "SeriesInfoDelayUnity": 5000,
       "introductionEnabled": true,
-      "MessageAlert": true,
+      "MessageAlert": false,
       "MessageText": "PATAGESSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSPATAGES",
       "MessageButtonText": "INSTALL",
       "MessageButtonDestination": "https://google.com"
