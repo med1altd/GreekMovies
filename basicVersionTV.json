@@ -62,7 +62,7 @@
     {
       "Title": "ERT WORLD",
       "Image": "https://iili.io/Hviq7Ul.png",
-      "Video": "https://telmacosa.s.llnwi.net/osO/ERTNews/default/index.mpd",
+      "Video": "https://telmacosa.s.llnwi.net/ertlive/ertworld/default/index.mpd",
       "LiveUrl": "https://www.megatv.com/live/",
       "StartString": "</td><td style=\"color:black;\" class=\"categ\">",
       "EndString": "</span>",
