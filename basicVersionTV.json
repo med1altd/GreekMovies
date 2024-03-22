@@ -241,6 +241,23 @@
       "isUnlocked": true,
       "liveContent": true,
       "liveDescription": true
+    },
+    {
+      "Title": "BasketBall",
+      "Image": "https://i.postimg.cc/BQtxCYxz/vouli.png",
+      "Video": "https://a41.azplay.me/hls/streama220595/index.m3u8?cst=2bd6e2e1931a15745710a289b8551ccd",
+      "LiveUrl": "https://programmatileorasis.gr/free/80/%CE%92%CE%9F%CE%A5%CE%9B%CE%97",
+      "StartString": "</td><td style=\"color:black;\" class=\"categ\">",
+      "EndString": "</a><spa",
+      "Start": 44,
+      "End": 0,
+      "StartStringD": ">🔍</span>",
+      "EndStringD": "</span>",
+      "StartD": 10,
+      "EndD": 0,
+      "isUnlocked": true,
+      "liveContent": false,
+      "liveDescription": false
     }
   ]
 }
