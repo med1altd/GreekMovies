@@ -190,7 +190,7 @@
     {
       "TV": [
         {
-          "Url": "https://med1altd.github.io/GreekMovies/basicVersionTV.json"
+          "Url": "https://raw.githubusercontent.com/med1altd/GreekMovies/e5d807c554da360ec6fa437ec7072a17bfc43e7b/basicVersionTV.json"
         }
       ],
       "Movies": [
