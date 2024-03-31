@@ -92,7 +92,7 @@
       "Year": "1963",
       "Genre": "Κωμωδία",
       "Duration": "1ωρ. 10λ.",
-      "isUnlocked": true,
+      "isUnlocked": false,
       "fetchVideo": true,
       "beforeEnd": "0",
       "Type": "m3u8",
