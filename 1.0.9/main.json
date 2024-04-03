@@ -66,12 +66,12 @@
       "MoviesInfoDelayUnity": 10000,
       "SeriesInfoDelayUnity": 10000,
       "introductionEnabled": true,
-      "MessageAlert": false,
-      "MessageText": "PATAGESSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSPATAGES",
+      "MessageAlert": true,
+      "MessageText": "Live Παναθηναϊκός - ΑΕΚ - ΔΕΙΤΕ ΤΟ LIVE ΣΤΟ MOVIEFLIX ΣΤΙΣ 21:00 - Cosmote Sports 1",
       "MessageButtonText": "INSTALL",
       "MessageButtonDestination": "https://google.com",
-      "MessageAdditionalWay": "",
-      "MessageImageUrl": "https://cdn.freebiesupply.com/logos/large/2x/cast-icon-chromecast-logo-svg-vector.svg"
+      "MessageAdditionalWay": "Image",
+      "MessageImageUrl": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2023-04/tsumber.jpg?itok=_OQgwclG"
     }
   ],
   "Introduction": [
