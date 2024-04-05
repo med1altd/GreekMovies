@@ -38,7 +38,7 @@
       "DMCAImageUrl": "https://i.ibb.co/VV8nGZ8/Greek-Series-DMCA.png",
       "CodeExample": "greek_version_2020",
       "MoreContentOption": false,
-      "AddContentOption": true,
+      "AddContentOption": false,
       "AddContentFormUrl": "https://forms.gle/neJx3HSpHXwNjUrx7",
       "checkForUpdates": true,
       "AdsType": "Unity",
