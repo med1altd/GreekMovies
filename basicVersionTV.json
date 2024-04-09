@@ -275,6 +275,23 @@
       "isUnlocked": true,
       "liveContent": false,
       "liveDescription": false
+    },
+    {
+      "Title": "THESSALIA TV",
+      "Image": "https://i.ibb.co/K7FMzZq/Thessalia-TV.png",
+      "Video": "https://a41.azplay.me/hls/streama221960/index.m3u8?cst=d537c50b3a8e0d8c7dbc2fe3c26a661d",
+      "LiveUrl": "https://programmatileorasis.gr/free/80/%CE%92%CE%9F%CE%A5%CE%9B%CE%97",
+      "StartString": "</td><td style=\"color:black;\" class=\"categ\">",
+      "EndString": "</a><spa",
+      "Start": 44,
+      "End": 0,
+      "StartStringD": ">🔍</span>",
+      "EndStringD": "</span>",
+      "StartD": 10,
+      "EndD": 0,
+      "isUnlocked": true,
+      "liveContent": false,
+      "liveDescription": false
     }
   ]
 }
