@@ -49,7 +49,7 @@
       "AddContentFormUrl": "https://greekmovies.netlify.app/addcontentform.html",
       "AddContentFormUrlWorking": "https://forms.gle/neJx3HSpHXwNjUrx7",
       "checkForUpdates": false,
-      "initialAdRequestDelay": 60000,
+      "initialAdRequestDelay": 0,
       "AdsType": "AdMob",
       "BannerAdsType": "AdMob",
       "InterstitialAdsType": "AdMob",
