@@ -7,7 +7,7 @@
       "showAds": false,
       "showBannerAds": false,
       "showInterstitialAds": false,
-      "showInterstitialAdsLive": false,
+      "showInterstitialAdsLive": true,
       "showInterstitialAdsVideo": false,
       "showRewardedInterstitialAds": false,
       "showAppOpenAds": false,
