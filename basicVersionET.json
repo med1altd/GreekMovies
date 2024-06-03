@@ -13,7 +13,7 @@
       "ImageMain": "https://image.tmdb.org/t/p/original/euMDIbyM1AaqWclSlbYJz6DKXor.jpg",
       "Title": "Αύριο Περνάω Απέναντι",
       "Video": "https://www.mediafire.com/file_premium/t4ysbvph7md545n/video/file",
-      "isUnlocked": true
+      "isUnlocked": false
     },
     {
       "Fetch": "MediaFire",
