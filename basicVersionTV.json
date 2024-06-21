@@ -10,8 +10,8 @@
   "TV": [
     {
       "Title": "ERT1",
-      "Image": "https://i.postimg.cc/C5csx9bG/ert1.png",
-      "Video": "https://s2.cystream.net/live/ert1/chunks.m3u8?nimblesessionid=4257181&wmsAuthSign=c2VydmVyX3RpbWU9Ni8xOS8yMDI0IDg6MDg6NDEgUE0maGFzaF92YWx1ZT01V20zOWNmUHZIcHNoTGlyOTJXYklnPT0mdmFsaWRtaW51dGVzPTIw",
+      "Image": "https://i.postimg.cc/C5csx9bG/ert1.png", 
+      "Video": "mpd",
       "VideoOld": "https://ertflix.s.llnwi.net/ertlive/ert1/default/index.mpd",
       "LiveUrl": "https://programmatileorasis.gr/free/18/%CE%95%CE%A1%CE%A41",
       "StartString": "</td><td style=\"color:black;\" class=\"categ\">",
@@ -21,10 +21,15 @@
       "StartStringD": ">🔍</span>",
       "EndStringD": "</span>",
       "StartD": 10,
-      "EndD": 0,
+      "EndD": 0,                                            
+      "DrmSystem": "Widevine",                                 
+      "DrmAPIKey": "https://api.app.ertflix.gr/v1/Player/AcquireContent?platformCodename=www&codename=ept1-live",                                  
+      "LicenseServerKey": "LicenseServerUrl",                      
+      "DrmChallengeCustomDataKey": "DrmChallengeCustomData",
       "isUnlocked": true,
       "liveContent": true,
-      "liveDescription": true
+      "liveDescription": true,
+      "enabledDrm": true
     },
     {
       "Title": "ERT2",
@@ -41,7 +46,8 @@
       "EndD": 0,
       "isUnlocked": true,
       "liveContent": true,
-      "liveDescription": true
+      "liveDescription": true,
+      "enabledDrm": false
     },
     {
       "Title": "ERT3",
@@ -58,7 +64,8 @@
       "EndD": 0,
       "isUnlocked": true,
       "liveContent": true,
-      "liveDescription": true
+      "liveDescription": true,
+      "enabledDrm": false
     },
     {
       "Title": "ERT WORLD",
@@ -71,7 +78,8 @@
       "End": 0,
       "isUnlocked": true,
       "liveContent": false,
-      "liveDescription": false
+      "liveDescription": false,
+      "enabledDrm": false
     },
     {
       "Title": "ERT NEWS",
@@ -88,7 +96,8 @@
       "EndD": 0,
       "isUnlocked": true,
       "liveContent": false,
-      "liveDescription": false
+      "liveDescription": false,
+      "enabledDrm": false    
     },
     {
       "Title": "ERT Kids",
@@ -105,7 +114,8 @@
       "EndD": 0,
       "isUnlocked": true,
       "liveContent": false,
-      "liveDescription": false
+      "liveDescription": false,
+      "enabledDrm": false     
     },
     {
       "Title": "MEGA",
@@ -122,7 +132,8 @@
       "EndD": 0,
       "isUnlocked": true,
       "liveContent": true,
-      "liveDescription": true
+      "liveDescription": true,
+      "enabledDrm": false     
     },
     {
       "Title": "ANT1",
@@ -139,7 +150,8 @@
       "EndD": 0,
       "isUnlocked": true,
       "liveContent": true,
-      "liveDescription": false
+      "liveDescription": false,
+      "enabledDrm": false     
     },
     {
       "Title": "Makedonia TV",
@@ -156,12 +168,13 @@
       "EndD": 0,
       "isUnlocked": true,
       "liveContent": true,
-      "liveDescription": true
+      "liveDescription": true,
+      "enabledDrm": false     
     },
     {
       "Title": "STAR",
       "Image": "https://i.postimg.cc/sxH5r7RK/star.png",
-      "Video": "https://cdn1.smart-tv-data.com/live/star/playlist.m3u8",
+      "Video": "https://livestar.siliconweb.com/media/star4/star4.m3u8",
       "VideoOld": "https://livestar.siliconweb.com/media/star1/star1.m3u8",
       "LiveUrl": "https://programmatileorasis.gr/free/3/STAR",
       "StartString": "</td><td style=\"color:black;\" class=\"categ\">",
@@ -174,12 +187,13 @@
       "EndD": 0,
       "isUnlocked": true,
       "liveContent": true,
-      "liveDescription": true
+      "liveDescription": true,
+      "enabledDrm": false     
     },
     {
       "Title": "ALPHA",
       "Image": "https://i.postimg.cc/L8Y3mC5P/alpha.png",
-      "Video": "https://cdn1.smart-tv-data.com/live/alpha/playlist.m3u8",
+      "Video": "https://alphatvlive.siliconweb.com/1/Y2Rsd1lUcUVoajcv/UVdCN25h/hls/live/playlist.m3u8",
       "LiveUrl": "https://programmatileorasis.gr/free/5/ALPHA",
       "StartString": "</td><td style=\"color:black;\" class=\"categ\">",
       "EndString": "</a><spa",
@@ -191,7 +205,8 @@
       "EndD": 0,
       "isUnlocked": true,
       "liveContent": true,
-      "liveDescription": true
+      "liveDescription": true,
+      "enabledDrm": false     
     },
     {
       "Title": "SKAI",
@@ -208,7 +223,8 @@
       "EndD": 0,
       "isUnlocked": true,
       "liveContent": true,
-      "liveDescription": true
+      "liveDescription": true,
+      "enabledDrm": false     
     },
     {
       "Title": "OPEN",
@@ -225,7 +241,8 @@
       "EndD": 0,
       "isUnlocked": true,
       "liveContent": true,
-      "liveDescription": true
+      "liveDescription": true,
+      "enabledDrm": false     
     },
     {
       "Title": "VOULI",
@@ -242,7 +259,8 @@
       "EndD": 0,
       "isUnlocked": true,
       "liveContent": true,
-      "liveDescription": true
+      "liveDescription": true,
+      "enabledDrm": false     
     },
     {
       "Title": "Action24",
@@ -259,7 +277,8 @@
       "EndD": 0,
       "isUnlocked": true,
       "liveContent": false,
-      "liveDescription": false
+      "liveDescription": false,
+      "enabledDrm": false     
     },
     {
       "Title": "THESSALIA TV",
@@ -276,7 +295,8 @@
       "EndD": 0,
       "isUnlocked": true,
       "liveContent": false,
-      "liveDescription": false
+      "liveDescription": false,
+      "enabledDrm": false
     }
   ]
 }
